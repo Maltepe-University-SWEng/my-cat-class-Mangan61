@@ -14,7 +14,7 @@ class Cat {
 
     public void meow() {
         System.out.println(name + " miyavlıyor...");
-        sesCal("//Users/macbookair/sofware /java/project_2/Exception_Handling/Try_Catch_Lab/Cat,/my-cat-class-Mangan61/module1/src/tr/edu/maltepe/oop/cat_meowing_1_ZAj_Dgz.wav"); // Doğru dosya yolunu ekleyelim
+        sesCal("/Users/macbookair/sofware /java/project_2/Exception_Handling/Try_Catch_Lab/Cat,/my-cat-class-Mangan61./module1/src/tr/edu/maltepe/oop/cat_meowing_1_ZAj_Dgz.wav"); // Doğru dosya yolunu ekleyelim
     }
 
     public void bilgileriGoster() {
