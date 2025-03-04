@@ -1,10 +1,9 @@
 package tr.edu.maltepe.oop;
-public  class Simple_main {
 
- public static void main(String []args){
-        //
-       System.out.println("simple main.....");
-        }
+class Simple_main {
+    public static void main(String[] args) {
+        Cat kedim = new Cat("Minnak", 3);
+        kedim.bilgileriGoster();
+        kedim.meow();
+    }
 }
-
-
